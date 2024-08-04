@@ -1,0 +1,16 @@
+{
+    "python.linting.enabled": true,
+    "python.linting.pylintPath": "pylint",
+    "editor.formatOnSave": true,
+    "python.formatting.provider": "yapf", // or "black" here
+    "python.linting.pylintEnabled": true,
+    "python.linting.lintOnSave": true,
+    "python.formatting.yapfArgs": [
+        "--style={based_on_style: google, column_limit: 80, indent_width: 4}"
+      ],
+      "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+      },
+    
+      
+}
