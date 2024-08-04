@@ -1,2 +1,12 @@
-# Text2Canvas
-A text to image(spirit) generative model using U-Ney diffusion model.
+---
+title: Text2Canvas
+emoji: 🐢
+colorFrom: pink
+colorTo: gray
+sdk: streamlit
+sdk_version: 1.25.0
+app_file: app.py
+pinned: false
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference

@@ -1,0 +1,11 @@
+diffusers==0.19.3
+matplotlib==3.7.2
+numpy==1.25.2
+Pillow==9.5.0
+streamlit==1.25.0
+torch==2.0.1
+torchvision==0.15.2
+tqdm==4.65.0
+wandb==0.15.8
+transformers==4.31.0
+accelerate==0.21.0
